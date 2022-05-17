@@ -26,7 +26,7 @@ $Imagen = $dato["url"];
     <title>Actividad Listar</title>
 </head>
 <body style="display:flex;justify-content:center;align-items:center; background:#008;flex-direction:column;  margin:0">
-    <h1 style="color: white; margin:5px 0 0 0">Actividad Listar (incompleto)</h1>
+    <h1 style="color: white; margin:5px 0 0 0">Actividad Listar</h1>
     
 
     <div class =" article center-h rounded-0 ">
